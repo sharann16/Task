@@ -4,6 +4,13 @@
     outline: none;
     font-family:sans-serif;
 }
+.outer-container{
+    width: 100%;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .container{
     background-color: #ecf0f3;
     height: fit-content;
